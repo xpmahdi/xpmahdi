@@ -1,58 +1,103 @@
-<!-- =========================================== -->
-<!--   GitHub Profile README for Mahdi Hosseini  -->
-<!-- =========================================== -->
+<h1 align="center">✨ Mahdi Hosseini ✨</h1>
+<h3 align="center">Junior Data Analyst | SQL • Python • Power BI • Data Visualization</h3>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:2496ED&height=200&section=header&text=Mahdi%20Hosseini&fontSize=40&fontColor=ffffff&animation=fadeIn)
-
-# 👋 Hi, I’m Mahdi
-
-🚀 DevOps engineer passionate about Kubernetes, Docker, Linux, Nginx, and modern monitoring stacks.  
-I love automating, scaling, and optimizing infrastructure.
-
----
-
-## ⚙️ DevOps & Cloud
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="60"/>
+<p align="center">
+  <img src="https://github.com/xpmahdi/xpmahdi/blob/main/assets/wave.gif" width="80">
 </p>
 
 ---
 
-## 🛠 Tech Stack (Badges)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen)
+<style>
+.badge:hover {
+  transform: scale(1.12);
+  transition: 0.2s ease-in-out;
+  filter: brightness(1.4);
+}
+.section:hover {
+  transform: scale(1.01);
+  transition: 0.2s ease-in-out;
+}
+</style>
 
 ---
 
-## 🐍 Contribution Snake
-![github contribution grid snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+## 📊 About Me  
+<div class="section">
+
+Data analyst passionate about:
+- Turning raw data into clear insights  
+- Building dashboards that **tell real stories**  
+- Finding patterns in chaos  
+- Bringing DevOps–level precision into analytics  
+
+🚀 Transitioning from DevOps → Data Analytics with strong technical roots.
+
+</div>
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-hosseini-7131b0258/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+## 🧰 Tech Stack  
+<div class="section">
+
+| Category | Tools |
+|---------|-------|
+| **Languages** | <span class="badge">🐍 Python</span> • <span class="badge">SQL</span> |
+| **Libraries** | <span class="badge">Pandas</span> • <span class="badge">NumPy</span> • <span class="badge">Matplotlib</span> |
+| **BI Tools** | <span class="badge">Power BI</span> • <span class="badge">Excel (Pivot)</span> |
+| **ML (Basics)** | <span class="badge">K-Means</span> • <span class="badge">Similarity Metrics</span> |
+| **Tools** | <span class="badge">Git</span> • <span class="badge">GitHub</span> • <span class="badge">Jupyter</span> |
+
+</div>
 
 ---
 
-*Last updated: 2025-09-28*
+## 🚀 Featured Projects  
+<div class="section">
+
+### 📊 **Sales Dashboard – Power BI**  
+A full BI dashboard for revenue, categories, KPIs, YoY comparison.  
+🔗 *Link:* (add link)
+
+### 🎬 **Movie Recommendation System – Python**  
+Built using cosine similarity, Pandas, vectorization.  
+🔗 *Link:* (add link)
+
+### 👥 **Customer Segmentation – K-Means**  
+Clustered customers into behavioral groups for marketing use.  
+🔗 *Link:* (add link)
+
+### 📈 **Financial KPI Analysis – Excel**  
+Structured Excel model with pivots, slicers, and KPI views.  
+🔗 *Link:* (add link)
+
+</div>
+
+---
+
+## 📈 GitHub Stats  
+<div align="center" class="section">
+  
+![Mahdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xpmahdi&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xpmahdi&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌍 Contact  
+<div class="section">
+
+📍 Tehran  
+📧 *(your email)*  
+💼 LinkedIn: *(your link)*  
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github.com/xpmahdi/xpmahdi/blob/main/assets/line.gif" width="100%">
+</p>
+
+<p align="center">🔥 Always learning. Always leveling up. 🔥</p>
