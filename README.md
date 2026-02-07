@@ -6,88 +6,85 @@
 </p>
 
 ---
+# 👋 Hi, I'm Mahdi
 
-## 🌟 About Me  
-I’m a data analyst who enjoys turning messy, raw datasets into clear and meaningful insights.  
-My focus is on **data cleaning, exploratory analysis, dashboard design, and data storytelling**.  
-With a strong technical background, I bring a structured, analytical approach to every problem—always aiming to uncover patterns that actually matter.
+**Junior DevOps Engineer**
+Interested in automation, Linux systems, and cloud infrastructure.
 
-I’m currently developing deeper skills in **Python analytics, SQL optimization, Power BI dashboards, and predictive modeling**, and I’m always pushing myself to learn, experiment, and build better solutions.
+---
+## 🛠 DevOps Stack
+
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge\&logo=linux)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-222?style=for-the-badge\&logo=githubactions)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+
+## ⚙️ Tech Stack
+
+**OS & Systems**
+
+* Linux (RHEL / Ubuntu)
+* Bash scripting
+
+**DevOps Tools**
+
+* Docker
+* Git & GitHub
+* CI/CD basics (GitHub Actions)
+
+**Infrastructure**
+
+* Networking fundamentals
+* Virtualization (VMware)
+
+**Learning Now**
+
+* Kubernetes
+* Terraform
+* Ansible
 
 ---
 
-## 📚 Data Tools & Libraries  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="60"/> <!-- Power BI -->
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="60"/> <!-- Excel -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
-</p>
+## 🚀 Projects
+
+### Dockerized Web App
+
+Containerized a simple web application using Docker and docker-compose.
+
+### CI/CD Practice
+
+Implemented a basic CI pipeline using GitHub Actions.
+
+### Linux Automation Scripts
+
+Collection of Bash scripts for system setup and monitoring.
 
 ---
 
-## 🛠 Tech Stack (Badges)
+## 📈 GitHub Stats
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xpmahdi\&show_icons=true\&theme=dark)
 
 ---
 
-## 🚀 Featured Projects  
+## 🎯 Goals
 
-### 📊 Sales Dashboard (Power BI)  
-✔ Visualization of revenue, categories, and KPIs  
-✔ Clean storytelling with DAX + interactions  
-🔗 *(Add Link)*  
-
----
-
-### 🎬 Movie Recommendation System (Python)  
-✔ Cosine similarity + Pandas vectorization  
-✔ Full EDA + preprocessing  
-🔗 *(Add Link)*  
+* Become strong in Linux and networking
+* Build production-like CI/CD pipelines
+* Learn Kubernetes deeply
+* Work with cloud infrastructure
 
 ---
 
-### 👥 Customer Segmentation (K-Means)  
-✔ Behavioral clustering with ML  
-✔ Clear charts + insights  
-🔗 *(Add Link)*  
+## 📫 Contact
 
----
-
-### 📈 Financial KPI Analysis (Excel)  
-✔ Ratio analysis, pivots, slicers  
-✔ Solid data modeling  
-🔗 *(Add Link)*  
-
----
-
-## 📊 GitHub Stats  
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=xpmahdi&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpmahdi&layout=compact&theme=tokyonight&hide_border=true" width="38%">
-
-</div>
-
----
-
-## 🌍 Contact  
+GitHub: [https://github.com/xpmahdi](https://github.com/xpmahdi)
 📧 Email: *(your email)*  
 🔗 LinkedIn: *(your link)*  
 📍 Tehran  
 
 ---
 
-<p align="center"><b>🔥 Data is a language. I just translate it. 🔥</b></p>
