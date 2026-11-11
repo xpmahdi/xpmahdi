@@ -63,7 +63,7 @@ Computer Science student focused on building resilient data ingestion pipelines,
 ### 📈 Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xpmahdi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=xpmahdi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
